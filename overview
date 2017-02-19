@@ -5,13 +5,13 @@ https://betasite.dc-aapor.org/
   Last updated: Feb 19, 2017
 *********************************************************************
 Table of Contents:
-  A. Remaining issues
-  B. Site overview
+  A. Remaining Issues/To Do
+  B. Site Overview
 *********************************************************************
-A. Remaining issues
+A. Remaining Issues/To Do
    
    2/19/2017
-   --"Checkout" button in cart is not properly aligned
+   --"Checkout" button in cart is not properly aligned.
    --"Past Events" need to be better organized. Hire MTurk workers to
       help categorize text so I can post them as tagged blog posts?
    --"Checkout" page would not let me display full text of pledge to
@@ -19,5 +19,32 @@ A. Remaining issues
    --Tables on "Executive Council" and "Chapter History" not ideally
       displayed on mobile. Plain text does not look good either. May 
       just leave this as is.
+   --Tagline on mobile still reading "Just another WordPress site."
+      This may be related to Google caching.
+   --Back end: Clean up unused plug-ins.
+   --After testing:
+     -Move old site to back-up URL (archives.dc-aapor.org?)
+     -Migrate URL
+     -Set-up PayPal
+     -Add Google Analytics after this is complete
+     -Check links are correct
+     -Make sure SSL is in effect on main URL
+     -Check on FTP/ability to file upload
 *********************************************************************
-B. Site overview
+B. Site Overview
+
+   New Features
+   --Overall
+     -Responsive design
+     -New logo
+     -Secure site (SSL)
+     -Integrated social media
+     -Modern menu structure
+     -Easier to update text (upcoming/past events, council changes, etc.)
+   --Membership
+     -One step sign-up and payment for easier tracking
+   --Job postings
+     -Homepage to browse job postings
+     -Form for job postings submission
+   --Photos
+     -All in one modern display
