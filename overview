@@ -21,6 +21,9 @@ A. Remaining Issues/To Do
       just leave this as is.
    --Tagline on mobile still reading "Just another WordPress site."
       This may be related to Google caching.
+   --Gina requested moving DC-AAPOR text in logo to overlap with
+      Capitol design. I tried this and it does not look right to me.
+      May try other things.
    --Back end: Clean up unused plug-ins.
    --After testing:
      -Move old site to back-up URL (archives.dc-aapor.org?)
