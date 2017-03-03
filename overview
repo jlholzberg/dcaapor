@@ -1,14 +1,68 @@
 This document outlines new features and changes to the DC-AAPOR site:
 https://betasite.dc-aapor.org/
-  Version: 1.0
+  Version: 1.1
   Initial creation: Oct/Nov 2016
-  Last updated: Feb 19, 2017
+  Last updated: March 3, 2017
 *********************************************************************
 Table of Contents:
   A. Remaining Issues/To Do
-  B. Site Overview
+  B. Resolved Issues
+  C. Site Overview
 *********************************************************************
 A. Remaining Issues/To Do
+   
+   Reviewer comments
+   -Overall and mobile
+   --Speed: slow to load home page and between pages
+   --Move social media links to bottom of page/make sure search is emphasized
+   --Move hamburger menu to upper right
+   --Reduce logo size for mobile
+   --Make navigation breadcrumb links blue
+   --Make subpages the clickable ones instead of the visible pages? Right now
+   navigation is different from mobile/desktop?
+   --Fix tables
+   --Some weird text overhang with become a member page on mobile
+   --Remove bottom navigation links on each page
+   --Extend breadcrumbs to all pages
+   --Home and About are the same pages-- change this
+   
+   -Homepage
+   --4 pillars under title look clickable but are not
+   --Remove emphasis on council and history. Move up events and how to join in
+   2nd paragraph
+   --The DC chapter, not the local chapter
+   --Remove "intellectual" from 2nd sentence. Also long- reword. See below.
+   
+   DC-AAPOR, the DC local chapter of the American Association for Public Opinion 
+   Research (AAPOR), is an active, intellectual community of researchers, 
+   academics, and other professionals engaged in the methods, applications, 
+   and findings of public opinion research and survey methodology.  
+   DC-AAPOR provides an exciting forum for discussion and debate about 
+   methodological, ethical, and substantive issues related to a range of 
+   research topics.
+   
+   -Council
+   --Make my email addresses consistent
+   --History versus current gives different years (16-17 v. 17)
+   
+   -Checkout and store
+   --Center 2 memberships on store page
+   --“Page Cannot Be Displayed” message (because of Sandbox?)
+   --Shopping cart displayed in menu bar is weird- replace with shopping cart
+   text. Or make visible only if add to cart?
+   --Wouldn't let update cart (because of Sandbox?)- only let do coupon- did
+   not see proceed to checkout further down page without scrolling
+   --Red X at beginning of row needs to be clearer as to purpose
+   --Member billing info did not come up at first
+   --Hide default sorting because only two options
+   --Put description of items under the two shopping choices. Unclear that need
+   to click box to buy
+   
+   3/3/2017
+   --Add membership list with hidden URL. Needs to be updated quarterly
+   --Hidden affinity group page with uploaded PDFs
+   --See three series of comments from reviewers
+   --Email listserv: use MailChimp or WordPress plug in instead of UMD?
    
    2/19/2017
    --"Checkout" button in cart is not properly aligned.
