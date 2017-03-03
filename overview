@@ -29,28 +29,6 @@ A. Remaining Issues/To Do
    --Make highest level active link as opposed to sublink for "home"
    --Don't use "click here" as link text
    
-   -Homepage
-   --4 pillars under title look clickable but are not
-   --Remove emphasis on council and history. Move up events and how to join in
-   2nd paragraph
-   --The DC chapter, not the local chapter
-   --Remove "intellectual" from 2nd sentence. Also long- reword. See below.
-   
-   DC-AAPOR, the DC local chapter of the American Association for Public Opinion 
-   Research (AAPOR), is an active, intellectual community of researchers, 
-   academics, and other professionals engaged in the methods, applications, 
-   and findings of public opinion research and survey methodology.  
-   DC-AAPOR provides an exciting forum for discussion and debate about 
-   methodological, ethical, and substantive issues related to a range of 
-   research topics.
-   
-   -Council
-   --Make my email addresses consistent
-   --History versus current gives different years (16-17 v. 17)
-   
-   -Bylaws
-   --Make "council" plural
-   
    -Membership
    --Change last sentence:  “Alternatively, you can join DC-AAPOR anytime from our 
    website.”  Make “Join DC-AAPOR” the link. Alternatively, you could have a big, 
@@ -120,7 +98,31 @@ A. Remaining Issues/To Do
      -Make sure SSL is in effect on main URL
      -Check on FTP/ability to file upload
 *********************************************************************
-B. Site Overview
+B. Resolved Issues
+
+   -Council
+   --Make my email addresses consistent
+   --History versus current gives different years (16-17 v. 17)
+   
+   -Bylaws
+   --Make "council" plural
+   
+   -Homepage
+   --4 pillars under title look clickable but are not
+   --Remove emphasis on council and history. Move up events and how to join in
+   2nd paragraph
+   --The DC chapter, not the local chapter
+   --Remove "intellectual" from 2nd sentence. Also long- reword. See below.
+   
+   DC-AAPOR, the DC local chapter of the American Association for Public Opinion 
+   Research (AAPOR), is an active, intellectual community of researchers, 
+   academics, and other professionals engaged in the methods, applications, 
+   and findings of public opinion research and survey methodology.  
+   DC-AAPOR provides an exciting forum for discussion and debate about 
+   methodological, ethical, and substantive issues related to a range of 
+   research topics.
+*********************************************************************   
+C. Site Overview
 
    New Features
    --Overall
