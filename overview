@@ -12,6 +12,7 @@ Table of Contents:
 A. Remaining Issues/To Do
    
    Reviewer comments
+   
    -Overall and mobile
    --Speed: slow to load home page and between pages
    --Move social media links to bottom of page/make sure search is emphasized
@@ -25,6 +26,8 @@ A. Remaining Issues/To Do
    --Remove bottom navigation links on each page
    --Extend breadcrumbs to all pages
    --Home and About are the same pages-- change this
+   --Make highest level active link as opposed to sublink for "home"
+   --Don't use "click here" as link text
    
    -Homepage
    --4 pillars under title look clickable but are not
@@ -45,6 +48,17 @@ A. Remaining Issues/To Do
    --Make my email addresses consistent
    --History versus current gives different years (16-17 v. 17)
    
+   -Bylaws
+   --Make "council" plural
+   
+   -Membership
+   --Change last sentence:  “Alternatively, you can join DC-AAPOR anytime from our 
+   website.”  Make “Join DC-AAPOR” the link. Alternatively, you could have a big, 
+   red “Join Now!” button, which people should see easily (and be really tempted to click!).
+   --Make generally clearer how to renew through the website
+   --Options under joining are surprising-- one membership page with join now button instead
+   or two options: "Join or Join/Renew" and "My Account"
+   
    -Checkout and store
    --Center 2 memberships on store page
    --“Page Cannot Be Displayed” message (because of Sandbox?)
@@ -57,6 +71,19 @@ A. Remaining Issues/To Do
    --Hide default sorting because only two options
    --Put description of items under the two shopping choices. Unclear that need
    to click box to buy
+   --Remove "showing all 2 results"
+   --Membership added/view cart not clearly visible. Change messaging?
+   --Returning customers confusing with no mention of renewing
+   
+   -Past events
+   --Remove first sentence
+   
+   -Awards and student paper
+   --Deadline for submitting?
+   
+   -Photos
+   --Some displaying very small- way to fix?
+   --Email address may not be correct
    
    3/3/2017
    --Add membership list with hidden URL. Needs to be updated quarterly
