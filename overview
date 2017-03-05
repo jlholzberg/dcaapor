@@ -26,15 +26,10 @@ A. Remaining Issues/To Do
    --Home and About are the same pages-- change this
    --Make highest level active link as opposed to sublink for "home"
    
-   -Membership
-   --Change last sentence:  “Alternatively, you can join DC-AAPOR anytime from our 
-   website.”  Make “Join DC-AAPOR” the link. Alternatively, you could have a big, 
-   red “Join Now!” button, which people should see easily (and be really tempted to click!).
-   --Make generally clearer how to renew through the website
+
+   -Checkout and store
    --Options under joining are surprising-- one membership page with join now button instead
    or two options: "Join or Join/Renew" and "My Account"
-   
-   -Checkout and store
    --Center 2 memberships on store page
    --“Page Cannot Be Displayed” message (because of Sandbox?)
    --Shopping cart displayed in menu bar is weird- replace with shopping cart
@@ -43,10 +38,8 @@ A. Remaining Issues/To Do
    not see proceed to checkout further down page without scrolling
    --Red X at beginning of row needs to be clearer as to purpose
    --Member billing info did not come up at first
-   --Hide default sorting because only two options
    --Put description of items under the two shopping choices. Unclear that need
    to click box to buy
-   --Remove "showing all 2 results"
    --Membership added/view cart not clearly visible. Change messaging?
    --Returning customers confusing with no mention of renewing
    
@@ -62,7 +55,6 @@ A. Remaining Issues/To Do
    --Find out who other than Scott and Temika gave comments so I can thank 
    them
    --Deadlines for awards and student paper nominations?
-   --Add social media page?
    
    2/19/2017
    --"Checkout" button in cart is not properly aligned.
@@ -104,6 +96,16 @@ B. Resolved Issues
    
    -Bylaws
    --Make "council" plural
+   
+   -Checkout and store
+   --Remove "showing all 2 results"
+   --Hide default sorting because only two options
+   
+   -Membership
+   --Change last sentence:  “Alternatively, you can join DC-AAPOR anytime from our 
+   website.”  Make “Join DC-AAPOR” the link. Alternatively, you could have a big, 
+   red “Join Now!” button, which people should see easily (and be really tempted to click!).
+   --Make generally clearer how to renew through the website
    
    -Homepage
    --4 pillars under title look clickable but are not
