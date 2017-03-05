@@ -15,7 +15,6 @@ A. Remaining Issues/To Do
    
    -Overall and mobile
    --Speed: slow to load home page and between pages
-   --Move social media links to bottom of page/make sure search is emphasized
    --Move hamburger menu to upper right
    --Reduce logo size for mobile
    --Make navigation breadcrumb links blue
@@ -23,11 +22,9 @@ A. Remaining Issues/To Do
    navigation is different from mobile/desktop?
    --Fix tables
    --Some weird text overhang with become a member page on mobile
-   --Remove bottom navigation links on each page
    --Extend breadcrumbs to all pages
    --Home and About are the same pages-- change this
    --Make highest level active link as opposed to sublink for "home"
-   --Don't use "click here" as link text
    
    -Membership
    --Change last sentence:  “Alternatively, you can join DC-AAPOR anytime from our 
@@ -55,7 +52,6 @@ A. Remaining Issues/To Do
    
    -Photos
    --Some displaying very small- way to fix?
-   --Email address may not be correct
    
    -------------------------------------------------------------------
    3/3/2017
@@ -66,6 +62,7 @@ A. Remaining Issues/To Do
    --Find out who other than Scott and Temika gave comments so I can thank 
    them
    --Deadlines for awards and student paper nominations?
+   --Add social media page?
    
    2/19/2017
    --"Checkout" button in cart is not properly aligned.
@@ -96,6 +93,11 @@ A. Remaining Issues/To Do
 *********************************************************************
 B. Resolved Issues
 
+   -Overall and mobile
+   --Move social media links to bottom of page/make sure search is emphasized
+   --Remove bottom navigation links on each page
+   --Don't use "click here" as link text
+
    -Council
    --Make my email addresses consistent
    --History versus current gives different years (16-17 v. 17)
@@ -120,6 +122,9 @@ B. Resolved Issues
       
    -Past events
    --Remove first sentence
+   
+   -Photos
+   --Email address may not be correct
 *********************************************************************   
 C. Site Overview
 
