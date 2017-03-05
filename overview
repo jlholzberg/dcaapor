@@ -15,7 +15,6 @@ A. Remaining Issues/To Do
    
    -Overall and mobile
    --Speed: slow to load home page and between pages
-   --Move hamburger menu to upper right
    --Reduce logo size for mobile
    --Make navigation breadcrumb links blue
    --Make subpages the clickable ones instead of the visible pages? Right now
@@ -30,10 +29,7 @@ A. Remaining Issues/To Do
    -Checkout and store
    --Options under joining are surprising-- one membership page with join now button instead
    or two options: "Join or Join/Renew" and "My Account"
-   --Center 2 memberships on store page
-   --“Page Cannot Be Displayed” message (because of Sandbox?)
-   --Shopping cart displayed in menu bar is weird- replace with shopping cart
-   text. Or make visible only if add to cart?
+   --“Page Cannot Be Displayed” message (because of Sandbox?) 
    --Wouldn't let update cart (because of Sandbox?)- only let do coupon- did
    not see proceed to checkout further down page without scrolling
    --Red X at beginning of row needs to be clearer as to purpose
@@ -41,10 +37,17 @@ A. Remaining Issues/To Do
    --Put description of items under the two shopping choices. Unclear that need
    to click box to buy
    --Membership added/view cart not clearly visible. Change messaging?
-   --Returning customers confusing with no mention of renewing
+   --Hide coupon?
    
    -Photos
    --Some displaying very small- way to fix?
+   
+   -Difficult Issues
+   --Shopping cart displayed in menu bar is weird- replace with shopping cart
+   text. Or make visible only if add to cart?
+   ---I can't figure this out. May be something we can only get if we pay $25 for premium Vogue theme
+   --Center 2 memberships on store page
+   ---I can't figure this out. No solution seems to work on both desktop and mobile
    
    -------------------------------------------------------------------
    3/3/2017
@@ -89,6 +92,8 @@ B. Resolved Issues
    --Move social media links to bottom of page/make sure search is emphasized
    --Remove bottom navigation links on each page
    --Don't use "click here" as link text
+   --Move hamburger menu to upper right 
+   ---Note: in doing this, I had to hide search because could not figure out how to get it to align properly
 
    -Council
    --Make my email addresses consistent
@@ -100,6 +105,7 @@ B. Resolved Issues
    -Checkout and store
    --Remove "showing all 2 results"
    --Hide default sorting because only two options
+   --Returning customers confusing with no mention of renewing
    
    -Membership
    --Change last sentence:  “Alternatively, you can join DC-AAPOR anytime from our 
