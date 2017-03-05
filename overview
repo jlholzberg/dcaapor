@@ -15,7 +15,6 @@ A. Remaining Issues/To Do
    
    -Overall and mobile
    --Speed: slow to load home page and between pages
-   --Reduce logo size for mobile
    --Make navigation breadcrumb links blue
    --Make subpages the clickable ones instead of the visible pages? Right now
    navigation is different from mobile/desktop?
@@ -24,7 +23,6 @@ A. Remaining Issues/To Do
    --Extend breadcrumbs to all pages
    --Home and About are the same pages-- change this
    --Make highest level active link as opposed to sublink for "home"
-   
 
    -Checkout and store
    --Options under joining are surprising-- one membership page with join now button instead
@@ -94,6 +92,7 @@ B. Resolved Issues
    --Don't use "click here" as link text
    --Move hamburger menu to upper right 
    ---Note: in doing this, I had to hide search because could not figure out how to get it to align properly
+   --Reduce logo size for mobile: could possibly reduce this more
 
    -Council
    --Make my email addresses consistent
