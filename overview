@@ -2,12 +2,13 @@ This document outlines new features and changes to the DC-AAPOR site:
 https://betasite.dc-aapor.org/
   Version: 1.1
   Initial creation: Oct/Nov 2016
-  Last updated: March 3, 2017
+  Last updated: May 3, 2017
 *********************************************************************
 Table of Contents:
   A. Remaining Issues/To Do
   B. Resolved Issues
   C. Site Overview
+  D. Deleted Plug-ins
 *********************************************************************
 A. Remaining Issues/To Do
    
@@ -150,3 +151,8 @@ C. Site Overview
      -Form for job postings submission
    --Photos
      -All in one modern display
+     
+*********************************************************************
+D. Deleted Plug-Ins
+
+--bbpress forum
