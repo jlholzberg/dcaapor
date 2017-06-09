@@ -16,7 +16,7 @@ A. Remaining Issues/To Do
    Reviewer comments
    
    -Overall and mobile
-   --Speed: slow to load home page and between pages
+   --Speed: slow to load home page and between pages. May be plug-in related
    --Make navigation breadcrumb links blue
    --Make subpages the clickable ones instead of the visible pages? Right now
    navigation is different from mobile/desktop?
@@ -25,39 +25,40 @@ A. Remaining Issues/To Do
    --Extend breadcrumbs to all pages
    --Home and About are the same pages-- change this
    --Make highest level active link as opposed to sublink for "home"
+   --Add membership list with hidden URL. Needs to be updated quarterly
+   --Hidden affinity group page with uploaded PDFs
 
    -Checkout and store
    --Options under joining are surprising-- one membership page with join now button instead
    or two options: "Join or Join/Renew" and "My Account"
    --“Page Cannot Be Displayed” message (because of Sandbox?) 
-   --Wouldn't let update cart (because of Sandbox?)- only let do coupon- did
-   not see proceed to checkout further down page without scrolling
-   --Red X at beginning of row needs to be clearer as to purpose
-   --Member billing info did not come up at first
    --Put description of items under the two shopping choices. Unclear that need
    to click box to buy
-   --Membership added/view cart not clearly visible. Change messaging?
-   --Hide coupon?
-   
+         
    -Photos
    --Some displaying very small- way to fix?
    
+   **Issues that I will proceed without resolving**
+   -Overall and mobile
+   
+   -Checkout and store: some of these I either cannot change or did not experience in my own testing/think may be Sandbox related
+   --Red X at beginning of row needs to be clearer as to purpose
+   --Member billing info did not come up at first
+   --Wouldn't let update cart (because of Sandbox?)- only let do coupon- did
+   not see proceed to checkout further down page without scrolling
+   --Deadlines for awards and student paper nominations?
  
   *********************************************************************
    B. Notes
   *********************************************************************
    
    3/3/2017
-   --Add membership list with hidden URL. Needs to be updated quarterly
-   --Hidden affinity group page with uploaded PDFs
    --See three series of comments from reviewers
    --Email listserv: use MailChimp or WordPress plug in instead of UMD?
    --Find out who other than Scott and Temika gave comments so I can thank 
    them
-   --Deadlines for awards and student paper nominations?
-   
+      
    2/19/2017
-   --"Checkout" button in cart is not properly aligned.
    --"Past Events" need to be better organized. Hire MTurk workers to
       help categorize text so I can post them as tagged blog posts?
    --"Checkout" page would not let me display full text of pledge to
@@ -105,6 +106,8 @@ C. Resolved Issues
    --Returning customers confusing with no mention of renewing
    --Shopping cart displayed in menu bar is weird- replace with shopping cart text. Or make visible only if add to cart?
    --Center 2 memberships on store page
+   --Hide coupon?
+   --Membership added/view cart not clearly visible. Change messaging?
    
    -Membership
    --Change last sentence:  “Alternatively, you can join DC-AAPOR anytime from our 
