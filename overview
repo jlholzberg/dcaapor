@@ -20,8 +20,6 @@ A. Remaining Issues/To Do
    --Make navigation breadcrumb links blue
    --Make subpages the clickable ones instead of the visible pages? Right now
    navigation is different from mobile/desktop?
-   --Fix tables
-   --Some weird text overhang with become a member page on mobile
    --Extend breadcrumbs to all pages
    --Home and About are the same pages-- change this
    --Make highest level active link as opposed to sublink for "home"
@@ -92,10 +90,13 @@ C. Resolved Issues
    --Move hamburger menu to upper right 
    ---Note: in doing this, I had to hide search because could not figure out how to get it to align properly
    --Reduce logo size for mobile: could possibly reduce this more
-
+   --Fix tables
+   --Some weird text overhang with become a member page on mobile
+   
    -Council
    --Make my email addresses consistent
    --History versus current gives different years (16-17 v. 17)
+   --Spacing of past council table weird
    
    -Bylaws
    --Make "council" plural
@@ -108,6 +109,7 @@ C. Resolved Issues
    --Center 2 memberships on store page
    --Hide coupon?
    --Membership added/view cart not clearly visible. Change messaging?
+   --"add to cart" changed to "purchase membership" with direct re-direct
    
    -Membership
    --Change last sentence:  “Alternatively, you can join DC-AAPOR anytime from our 
