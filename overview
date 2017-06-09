@@ -17,12 +17,11 @@ A. Remaining Issues/To Do
    
    -Overall and mobile
    --Speed: slow to load home page and between pages. May be plug-in related
-   --Make navigation breadcrumb links blue
    --Make subpages the clickable ones instead of the visible pages? Right now
    navigation is different from mobile/desktop?
-   --Extend breadcrumbs to all pages
    --Home and About are the same pages-- change this
    --Make highest level active link as opposed to sublink for "home"
+   
    --Add membership list with hidden URL. Needs to be updated quarterly
    --Hidden affinity group page with uploaded PDFs
 
@@ -33,9 +32,7 @@ A. Remaining Issues/To Do
    --Put description of items under the two shopping choices. Unclear that need
    to click box to buy
          
-   -Photos
-   --Some displaying very small- way to fix?
-   
+  
    **Issues that I will proceed without resolving**
    -Overall and mobile
    
@@ -45,6 +42,9 @@ A. Remaining Issues/To Do
    --Wouldn't let update cart (because of Sandbox?)- only let do coupon- did
    not see proceed to checkout further down page without scrolling
    --Deadlines for awards and student paper nominations?
+   
+   -Photos
+   --Some displaying very small- way to fix? (seems to be thumbnail issue-- lots of duplicate photos too)
  
   *********************************************************************
    B. Notes
@@ -92,6 +92,8 @@ C. Resolved Issues
    --Reduce logo size for mobile: could possibly reduce this more
    --Fix tables
    --Some weird text overhang with become a member page on mobile
+   --Make navigation breadcrumb links blue
+   --Extend breadcrumbs to all pages
    
    -Council
    --Make my email addresses consistent
