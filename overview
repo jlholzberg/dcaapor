@@ -21,10 +21,9 @@ A. Remaining Issues/To Do
    navigation is different from mobile/desktop?
    --Home and About are the same pages-- change this
    --Make highest level active link as opposed to sublink for "home"
+   --Make sure Becca and events are properly updated
+   --Update bylaws
    
-   --Add membership list with hidden URL. Needs to be updated quarterly
-   --Hidden affinity group page with uploaded PDFs
-
    -Checkout and store
    --Options under joining are surprising-- one membership page with join now button instead
    or two options: "Join or Join/Renew" and "My Account"
@@ -35,6 +34,7 @@ A. Remaining Issues/To Do
   
    **Issues that I will proceed without resolving**
    -Overall and mobile
+   --Update membership quarterly  
    
    -Checkout and store: some of these I either cannot change or did not experience in my own testing/think may be Sandbox related
    --Red X at beginning of row needs to be clearer as to purpose
@@ -42,9 +42,14 @@ A. Remaining Issues/To Do
    --Wouldn't let update cart (because of Sandbox?)- only let do coupon- did
    not see proceed to checkout further down page without scrolling
    --Deadlines for awards and student paper nominations?
+   --State should be scroll wheel instead of drop down
    
    -Photos
    --Some displaying very small- way to fix? (seems to be thumbnail issue-- lots of duplicate photos too)
+   
+   -Other
+   --Upload membership list on hidden page
+   --Contact Patti and Mandy about the affinity page
  
   *********************************************************************
    B. Notes
@@ -94,6 +99,7 @@ C. Resolved Issues
    --Some weird text overhang with become a member page on mobile
    --Make navigation breadcrumb links blue
    --Extend breadcrumbs to all pages
+   --Created hidden pages for affinity group and membership list
    
    -Council
    --Make my email addresses consistent
