@@ -17,12 +17,7 @@ A. Remaining Issues/To Do
    
    -Overall and mobile
    --Speed: slow to load home page and between pages. May be plug-in related
-   --Make subpages the clickable ones instead of the visible pages? Right now
-   navigation is different from mobile/desktop?
-   --Home and About are the same pages-- change this
-   --Make highest level active link as opposed to sublink for "home"
-   --Make sure Becca and events are properly updated
-   --Update bylaws
+   --Update links?
    
    -Checkout and store
    --Options under joining are surprising-- one membership page with join now button instead
@@ -100,6 +95,10 @@ C. Resolved Issues
    --Make navigation breadcrumb links blue
    --Extend breadcrumbs to all pages
    --Created hidden pages for affinity group and membership list
+   --Make subpages the clickable ones instead of the visible pages? Right now navigation is different from mobile/desktop?
+   --Home and About are the same pages-- change this
+    --Make sure Becca and events are properly updated
+    --Update bylaws
    
    -Council
    --Make my email addresses consistent
