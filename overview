@@ -1,17 +1,18 @@
 This document outlines new features and changes to the DC-AAPOR site:
 https://betasite.dc-aapor.org/
-  Version: 1.1
+  Version: 1.2
   Initial creation: Oct/Nov 2016
-  Last updated: May 3, 2017
+  Last updated: June 9, 2017
 *********************************************************************
 Table of Contents:
   A. Remaining Issues/To Do
-  B. Resolved Issues
-  C. Site Overview
-  D. Deleted Plug-ins
+  B. Notes
+  C. Resolved Issues
+  D. Site Overview
+  E. Deleted Plug-ins
 *********************************************************************
 A. Remaining Issues/To Do
-   
+*********************************************************************  
    Reviewer comments
    
    -Overall and mobile
@@ -41,14 +42,11 @@ A. Remaining Issues/To Do
    -Photos
    --Some displaying very small- way to fix?
    
-   -Difficult Issues
-   --Shopping cart displayed in menu bar is weird- replace with shopping cart
-   text. Or make visible only if add to cart?
-   ---I can't figure this out. May be something we can only get if we pay $25 for premium Vogue theme
-   --Center 2 memberships on store page
-   ---I can't figure this out. No solution seems to work on both desktop and mobile
+ 
+  *********************************************************************
+   B. Notes
+  *********************************************************************
    
-   -------------------------------------------------------------------
    3/3/2017
    --Add membership list with hidden URL. Needs to be updated quarterly
    --Hidden affinity group page with uploaded PDFs
@@ -75,8 +73,7 @@ A. Remaining Issues/To Do
    --High res logo for swag orders
    --Back end: Clean up unused plug-ins.
    
-   --Council will test. Temika will usability test.
-   --After testing:
+   --Site launch:
      -Move old site to back-up URL (archives.dc-aapor.org?)
      -Migrate URL
      -Set-up PayPal
@@ -85,8 +82,8 @@ A. Remaining Issues/To Do
      -Make sure SSL is in effect on main URL
      -Check on FTP/ability to file upload
 *********************************************************************
-B. Resolved Issues
-
+C. Resolved Issues
+*********************************************************************
    -Overall and mobile
    --Move social media links to bottom of page/make sure search is emphasized
    --Remove bottom navigation links on each page
@@ -106,6 +103,8 @@ B. Resolved Issues
    --Remove "showing all 2 results"
    --Hide default sorting because only two options
    --Returning customers confusing with no mention of renewing
+   --Shopping cart displayed in menu bar is weird- replace with shopping cart text. Or make visible only if add to cart?
+   --Center 2 memberships on store page
    
    -Membership
    --Change last sentence:  “Alternatively, you can join DC-AAPOR anytime from our 
@@ -134,8 +133,8 @@ B. Resolved Issues
    -Photos
    --Email address may not be correct
 *********************************************************************   
-C. Site Overview
-
+D. Site Overview
+-------------------------------------------------------------------
    New Features
    --Overall
      -Responsive design
@@ -153,6 +152,6 @@ C. Site Overview
      -All in one modern display
      
 *********************************************************************
-D. Deleted Plug-Ins
-
+E. Deleted Plug-Ins
+*********************************************************************
 --bbpress forum
