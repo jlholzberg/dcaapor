@@ -60,6 +60,18 @@ A. Remaining Issues/To Do
    --Installed cache plug-in but it's not active/might need to use another kind
    --Revisions control to get rid of earlier drafts of pages
    
+   -Site launch:
+   --Downloaded copies of current site files to hard drive and backed up on Google Drive and Dropbox
+   --Migrated to archives.dc-aapor.org
+   ---Seems to be mostly working other than one weird footnote error
+     
+    TO DO
+    -Back up betasite
+    -Migrate to dc-aapor.org
+    -Check PayPal/put in info from Patti
+    -Check links/functionality
+    -Add Google Analytics?
+    
    3/3/2017
    --See three series of comments from reviewers
    --Email listserv: use MailChimp or WordPress plug in instead of UMD?
@@ -80,16 +92,8 @@ A. Remaining Issues/To Do
       Capitol design. I tried this and it does not look right to me.
       May try other things.
    --High res logo for swag orders
-   --Back end: Clean up unused plug-ins.
-   
-   --Site launch:
-     -Move old site to back-up URL (archives.dc-aapor.org?)
-     -Migrate URL
-     -Set-up PayPal
-     -Add Google Analytics after this is complete
-     -Check links are correct
-     -Make sure SSL is in effect on main URL
-     -Check on FTP/ability to file upload
+    
+
 *********************************************************************
 C. Resolved Issues
 *********************************************************************
