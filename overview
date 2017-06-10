@@ -64,6 +64,8 @@ A. Remaining Issues/To Do
    --Downloaded copies of current site files to hard drive and backed up on Google Drive and Dropbox
    --Migrated to archives.dc-aapor.org
    ---Seems to be mostly working other than one weird footnote error
+   --Downloaded back-up of Wordpress files to hard drive, backed up on Google Drive
+   --Installed plug-in to back-up Wordpress automatically, starting before migration (pending)
      
     TO DO
     -Back up betasite
