@@ -17,9 +17,9 @@ A. Remaining Issues/To Do
    
    -Overall and mobile
    --Speed: slow to load home page and between pages. May be plug-in related
+   ---Consider new photo gallery plug-in
    --Update links?
-   --Weird file name issue with bylaws-- still had it on old site too
-   
+      
    -Checkout and store
    --Options under joining are surprising-- one membership page with join now button instead
    or two options: "Join or Join/Renew" and "My Account"
@@ -31,6 +31,7 @@ A. Remaining Issues/To Do
    **Issues that I will proceed without resolving**
    -Overall and mobile
    --Update membership quarterly  
+   --Weird file name issue with bylaws-- still had it on old site too
    
    -Checkout and store: some of these I either cannot change or did not experience in my own testing/think may be Sandbox related
    --Red X at beginning of row needs to be clearer as to purpose
@@ -50,6 +51,14 @@ A. Remaining Issues/To Do
   *********************************************************************
    B. Notes
   *********************************************************************
+   
+   6/9/2017
+   --Deleted Breadcrumb and Search Everything
+   
+   -Speed edits
+   --Deactivated and removed plug-ins: could possibly do this with more of them
+   --Installed cache plug-in but it's not active/might need to use another kind
+   --Revisions control to get rid of earlier drafts of pages
    
    3/3/2017
    --See three series of comments from reviewers
