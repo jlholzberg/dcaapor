@@ -2,7 +2,7 @@ This document outlines new features and changes to the DC-AAPOR site:
 https://betasite.dc-aapor.org/
   Version: 1.2
   Initial creation: Oct/Nov 2016
-  Last updated: June 9, 2017
+  Last updated: June 11, 2017
 *********************************************************************
 Table of Contents:
   A. Remaining Issues/To Do
@@ -13,12 +13,9 @@ Table of Contents:
 *********************************************************************
 A. Remaining Issues/To Do
 *********************************************************************  
-   Reviewer comments
+   Reviewer comments/my own comments
    
    -Overall and mobile
-   --Speed: slow to load home page and between pages. May be plug-in related
-   ---Consider new photo gallery plug-in
-   --Update links?
       
    -Checkout and store
    --Options under joining are surprising-- one membership page with join now button instead
@@ -32,6 +29,7 @@ A. Remaining Issues/To Do
    -Overall and mobile
    --Update membership quarterly  
    --Weird file name issue with bylaws-- still had it on old site too
+   --Speed: seems to have been improved but will monitor this
    
    -Checkout and store: some of these I either cannot change or did not experience in my own testing/think may be Sandbox related
    --Red X at beginning of row needs to be clearer as to purpose
@@ -43,6 +41,7 @@ A. Remaining Issues/To Do
    
    -Photos
    --Some displaying very small- way to fix? (seems to be thumbnail issue-- lots of duplicate photos too)
+   --Consider new photo gallery plug-in
    
    -Other
    --Upload membership list on hidden page
@@ -54,6 +53,7 @@ A. Remaining Issues/To Do
    
    6/9/2017
    --Deleted Breadcrumb and Search Everything
+   --Links updated
    
    -Speed edits
    --Deactivated and removed plug-ins: could possibly do this with more of them
@@ -66,10 +66,13 @@ A. Remaining Issues/To Do
    ---Seems to be mostly working other than one weird footnote error
    --Downloaded back-up of Wordpress files to hard drive, backed up on Google Drive
    --Installed plug-in to back-up Wordpress automatically, starting before migration (pending)
+   --Used duplicator to download back-up of site and uploaded this to the current URL with a new SQL database. I can also use
+   this program for back-ups though it seemed like it wasn't working afterwards
+   --Checked links. Still a few that are weird: .php pages for old events not formatted properly, and 2011 TSE conf slides
+   seem to be missing. Not going to worry about this for now
+   --Note: WordPress- pay attention to where you are logged in. Can still use betasite as a dev site.
      
     TO DO
-    -Back up betasite
-    -Migrate to dc-aapor.org
     -Check PayPal/put in info from Patti
     -Check links/functionality
     -Add Google Analytics?
