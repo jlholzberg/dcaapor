@@ -34,7 +34,7 @@ A. Remaining Issues/To Do
    --Wouldn't let update cart (because of Sandbox?)- only let do coupon- did
    not see proceed to checkout further down page without scrolling
    --Deadlines for awards and student paper nominations?
-   --State should be scroll wheel instead of drop down
+   --State should be scroll wheel instead of drop down, would like phone number to be formatted
    
    -Photos
    --Some displaying very small- way to fix? (seems to be thumbnail issue-- lots of duplicate photos too)
@@ -68,6 +68,7 @@ A. Remaining Issues/To Do
    --Checked links. Still a few that are weird: .php pages for old events not formatted properly, and 2011 TSE conf slides
    seem to be missing. Not going to worry about this for now
    --Note: WordPress- pay attention to where you are logged in. Can still use betasite as a dev site.
+   --PayPal: put in API, changed to correct email. Seems OK prior to payment. Test while talk to Patti?
      
     TO DO
     -Check PayPal/put in info from Patti
